@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Danilo Filitto",
+      "email": "danilo.filitto@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Make Indie Games",
+      "email": "makeindiegames@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "games": [
+    {
+      "id": 1,
+      "name": "Unreal: Corrida Infinita",
+      "image": "https://i0.wp.com/www.makeindiegames.com.br/wp-content/uploads/2020/05/Unreal-Corrida-infinita-novo.jpg",
+      "site": "www.dfilitto.com.br"
+    }
+  ],
+  "highscores": [
+    {
+      "id": 1,
+      "highscore": 0,
+      "game": "Unreal: Corrida Infinita",
+      "name": "Danilo Filitto",
+      "email": "danilo.filitto@gmail.com",
+      "phrase": "Se inscreva em nosso canal dfilitto :)"
+    }
+  ]
+}
