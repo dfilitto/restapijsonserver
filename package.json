@@ -4,7 +4,7 @@
   "description": "REST API Fake feito com o Json-Server",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json",
+    "start": "node ./server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
