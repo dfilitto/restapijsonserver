@@ -7,6 +7,7 @@ const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 8080;
 
 server.use(middlewares);
+server.use(jsonServer.bodyParser);
 server.use(router);
 server.listen(port, () => {
   // eslint-disable-next-line no-console
