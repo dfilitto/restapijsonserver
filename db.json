@@ -16,11 +16,33 @@
   "highscores": [
     {
       "id": 1,
-      "highscore": 0,
+      "highscore": 1000,
       "game": "Unreal: Corrida Infinita",
       "name": "Danilo Filitto",
       "email": "danilo.filitto@gmail.com",
       "phrase": "Se inscreva em nosso canal dfilitto :)"
+    },
+    {
+      "id": 2,
+      "highscore": 950,
+      "game": "Tetris",
+      "name": "Danilo Filitto",
+      "email": "danilo.filitto@gmail.com",
+      "phrase": "Se inscreva em nosso canal dfilitto :)"
+    }
+  ],
+  "coletadedados": [
+    {
+      "id": 1,
+      "data": "23/04/2021",
+      "hora": "19:30:00",
+      "status": "Sala vazia"
+    },
+    {
+      "id": 2,
+      "data": "23/04/2021",
+      "hora": "19:30:30",
+      "status": "Presença detectada"
     }
   ]
 }
