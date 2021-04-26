@@ -44,5 +44,168 @@
       "hora": "19:30:30",
       "status": "Presença detectada"
     }
+  ],
+  "translategame": [
+      {
+        "Id": 1,
+        "Palavra": "Lion",
+        "Traducao": "Leão",
+        "Categoria": "Animais",
+        "Respostas": ["Leão","Jacaré","Onça"]
+      },
+      {
+        "Id": 2,
+        "Palavra": "Bat",
+        "Traducao": "Morcego",
+        "Categoria": "Animais",
+        "Respostas": ["Morcego","Esquilo","Leão"]
+      },
+      {
+        "Id": 3,
+        "Palavra": "Snake",
+        "Traducao": "Cobra",
+        "Categoria": "Animais",
+        "Respostas": ["Golfinho","Baleia","Cobra"]
+      },
+     {
+      "Id": 4,
+      "Palavra": "Car",
+      "Traducao": "Carro",
+      "Categoria": "Coisas",
+      "Respostas": ["Moto","Carro","Barco"]
+    },
+       {
+      "Id": 5,
+      "Palavra": "Dolphin",
+      "Traducao": "Golfinho",
+      "Categoria": "Animais",
+      "Respostas": ["Cavalo","Golfinho","Dromedário"]
+    },
+       {
+      "Id": 6,
+      "Palavra": "Monkey",
+      "Traducao": "Macaco",
+      "Categoria": "Animais",
+      "Respostas": ["Galinha","Macaco","Monstro"]
+    },
+       {
+      "Id": 7,
+      "Palavra": "Bear",
+      "Traducao": "Urso",
+      "Categoria": "Animais",
+      "Respostas": ["Urso","Boi","Bode"]
+    },
+       {
+      "Id": 8,
+      "Palavra": "Fox",
+      "Traducao": "Raposa",
+      "Categoria": "Animais",
+      "Respostas": ["Foca","Rato","Raposa"]
+    },
+       {
+      "Id": 9,
+      "Palavra": "Purse",
+      "Traducao": "Bolsa",
+      "Categoria": "Coisas",
+      "Respostas": ["Mala","Mochila","Bolsa"]
+    },
+       {
+      "Id": 10,
+      "Palavra": "Fish",
+      "Traducao": "Peixe",
+      "Categoria": "Animais",
+      "Respostas": ["Furão","Peixe","Esquilo"]
+    },
+       {
+      "Id": 11,
+      "Palavra": "Parasyte",
+      "Traducao": "Parasita",
+      "Categoria": "Monstros",
+      "Respostas": ["Verme","Parasita","Aberração"]
+    },
+    {
+      "Id": 12,
+      "Palavra": "Water",
+      "Traducao": "Água",
+      "Categoria": "Elementos",
+      "Respostas": ["Terra","Água","Fogo"]
+    },
+    {
+      "Id" : 13
+      "Palavra": "Sheep",
+      "Traducao": "Ovelha",
+      "Categoria": "Animais",
+      "Respostas": ["Sagui","Sapo","Ovelha"]
+    },
+       {
+      "Id": 14,
+      "Palavra": "Monster",
+      "Traducao": "Monstro",
+      "Categoria": "Coisas",
+      "Respostas": ["Monstro","Mostrar","Mostrador"]
+    },
+    {
+      "Id": 15,
+      "Palavra": "Goat",
+      "Traducao": "Bode",
+      "Categoria": "Animais",
+      "Respostas": ["Bode","Gato","Gorila"]
+    },
+    {
+      "Id": 16,
+      "Palavra": "Moose",
+      "Traducao": "Alce",
+      "Categoria": "Animais",
+      "Respostas": ["Alce","Rato","Morsa"]
+    },
+    {
+      "Id": 17,
+      "Palavra": "Raft",
+      "Traducao": "Jangada",
+      "Categoria": "Coisas",
+      "Respostas": ["Barca","Jangada","Barco"]
+    },
+    {
+      "Id": 18,
+      "Palavra": "Deer",
+      "Traducao": "Veado",
+      "Categoria": "Animais",
+      "Respostas": ["Dromedário","Urso","Veado"]
+    },
+    {
+      "Id": 19,
+      "Palavra": "Artic",
+      "Traducao": "Artico",
+      "Categoria": "Coisas",
+      "Respostas": ["Antartica","Artico","Polo Sul"]
+    },
+    {
+      "Id": 20,
+      "Palavra": "Brazil",
+      "Traducao": "Brasil",
+      "Categoria": "País",
+      "Respostas": ["Japão","Brasil","Espanha"]
+    },
+    {
+      "Id": 21,
+      "Palavra": "Goose",
+      "Traducao": "Ganso",
+      "Categoria": "Animais",
+      "Respostas": ["Gorila","Gato","Ganso"]
+    },
+    {
+      "Id": 22,
+      "Palavra": "Henger",
+      "Traducao": "Cabide",
+      "Categoria": "Coisas",
+      "Respostas": ["Cabeçeira","Cobertor","Cabide"]
+    },
+    {
+      "Id": 23,
+      "Palavra": "Bridge",
+      "Traducao": "Ponte",
+      "Categoria": "Coisas",
+      "Respostas": ["Carca","Ponte","Coluna"]
+    }
   ]
 }
