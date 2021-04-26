@@ -131,7 +131,7 @@
       "Respostas": ["Terra","Água","Fogo"]
     },
     {
-      "Id" : 13
+      "Id" : 13,
       "Palavra": "Sheep",
       "Traducao": "Ovelha",
       "Categoria": "Animais",
