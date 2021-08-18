@@ -207,5 +207,31 @@
       "Categoria": "Coisas",
       "Respostas": ["Carca","Ponte","Coluna"]
     }
+  ],
+  "promocao": [
+    {
+      "Id": 1,
+      "nome": "Aprenda a monetizar seus jogos",
+      "descricao":" Descrição da premiação",
+      "foto": "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg",
+      "link": "https://dfilitto.com.br/desenvolvimento/desenvolvimento-de-jogos/unity/unity-aprenda-a-monetizar-os-seus-jogos-e-publica-los-no-google-play/",
+      "ativa": 0
+    },
+    {
+      "Id": 2,
+      "nome": "Jogo Spin",
+      "descricao":" Descrição da premiação",
+      "foto": "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/06/Unity-Spin.jpg",
+      "link": "https://dfilitto.com.br/desenvolvimento/desenvolvimento-de-jogos/unity/unity-3d-construindo-o-jogo-spin-game/",
+      "ativa": 0
+    },
+    {
+      "Id": 3,
+      "nome": "Caça-níqueis",
+      "descricao":" Descrição da premiação",
+      "foto": "https://i0.wp.com/dfilitto.com.br/wp-content/uploads/2021/06/Unity-Jackpot-Machine.jpg",
+      "link": "https://dfilitto.com.br/desenvolvimento/desenvolvimento-de-jogos/unity/como-criar-uma-maquina-de-caca-niquel-na-engine-unity-3d/",
+      "ativa": 1
+    }
   ]
 }
