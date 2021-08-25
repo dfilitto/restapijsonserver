@@ -211,11 +211,11 @@
   "promocao": [
     {
       "Id": 1,
-      "nome": "Aprenda a monetizar seus jogos",
-      "descricao":" Descrição da premiação",
-      "foto": "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg",
-      "link": "https://dfilitto.com.br/desenvolvimento/desenvolvimento-de-jogos/unity/unity-aprenda-a-monetizar-os-seus-jogos-e-publica-los-no-google-play/",
-      "ativa": 0
+      "Nome": "Aprenda a monetizar seus jogos",
+      "Descricao":" Descrição da premiação",
+      "Foto": "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg",
+      "Link": "https://dfilitto.com.br/desenvolvimento/desenvolvimento-de-jogos/unity/unity-aprenda-a-monetizar-os-seus-jogos-e-publica-los-no-google-play/",
+      "Ativa": 0
     },
     {
       "Id": 2,
@@ -233,5 +233,34 @@
       "link": "https://dfilitto.com.br/desenvolvimento/desenvolvimento-de-jogos/unity/como-criar-uma-maquina-de-caca-niquel-na-engine-unity-3d/",
       "ativa": 1
     }
+  ],
+   "campanha": [
+    {
+      "Id": 1,
+      "Nome": "Nome da campanha",
+      "Logo": "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg",
+      "Banner": "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg",
+      "Regulamento":"Regulamento da campanha Regulamento da campanha Regulamento da campanha Regulamento da campanha Regulamento da campanha Regulamento da campanha",
+      "tempoRotacao" 3,
+      "Vitoria":"https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg",
+      "Derrota":"https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg"
+    },
+  ],
+   "premios": [
+    {
+      "Id": 1,
+      "Nome": "Nome do prêmio",
+      "Foto": "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg"
+    },
+     {
+      "Id": 2,
+      "Nome": "Nome do prêmio",
+      "Foto": "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg"
+    },
+    {
+      "Id": 1,
+      "Nome": "Nome do prêmio",
+      "Foto": "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg"
+    }, 
   ]
 }
