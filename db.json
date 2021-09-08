@@ -262,5 +262,11 @@
       "Nome": "Nome do prêmio",
       "Foto": "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg"
     }
+  ],
+  "novacampanha": [
+    {
+      "message": "sucesso",
+      "error": ""
+    }
   ]
 }
