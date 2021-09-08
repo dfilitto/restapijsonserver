@@ -263,35 +263,35 @@
       "Foto": "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg"
     }
   ],
-  "novacampanha:" [
+  "novacampanha": [
     {
-      message: "sucesso",
-      error: "",
-      data: [
+      "message": "sucesso",
+      "error": "",
+      "data": [
         {
-          Id: 1,
-          Nome: "Nome da campanha",
-          Logo: "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg",
-          Banner:"https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg",
-          Regulamento:"Regulamento da campanha Regulamento da campanha Regulamento da campanha Regulamento da campanha Regulamento da campanha Regulamento da campanha",
-          tempoRotacao: 3,
-          Vitoria: "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg",
-          Derrota: "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg",
-          Premios: [
+          "Id": 1,
+          "Nome": "Nome da campanha",
+          "Logo": "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg",
+          "Banner":"https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg",
+          "Regulamento":"Regulamento da campanha Regulamento da campanha Regulamento da campanha Regulamento da campanha Regulamento da campanha Regulamento da campanha",
+          "tempoRotacao: 3,
+          "Vitoria": "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg",
+          "Derrota": "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg",
+          "Premios": [
               {
-                Id: 1,
-                Nome: "Nome do prêmio",
-                Foto: "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg",
+                "Id": 1,
+                "Nome": "Nome do prêmio",
+                "Foto": "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg",
               },
               {
-                Id: 2,
-                Nome: "Nome do prêmio",
-                Foto: "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg",
+                "Id": 2,
+                "Nome": "Nome do prêmio",
+                "Foto": "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg",
               },
               {
-                Id: 1,
-                Nome: "Nome do prêmio",
-                Foto: "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg",
+                "Id": 1,
+                "Nome": "Nome do prêmio",
+                "Foto": "https://i1.wp.com/dfilitto.com.br/wp-content/uploads/2021/05/unity-Aprenda-a-monetizar-seus-jogos.jpg",
               }
            ]
         }
