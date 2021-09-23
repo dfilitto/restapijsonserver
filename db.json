@@ -267,7 +267,7 @@
     {
       "mensagem": "sucesso",
       "erro": "",
-      "dados": [
+      "campanha": [
         {
           "Id": 1,
           "Nome": "Nome da campanha",
